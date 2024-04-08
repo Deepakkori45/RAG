@@ -16,7 +16,7 @@ st.title("RAG enhanced Chatbot")
 # os.environ["OPENAI_API_KEY"] = db.secrets.get("OPENAI_API_KEY")
 # openai.api_key = db.secrets.get("OPENAI_API_KEY")
 
-api_key = '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'
+api_key = 
 openai.api_key = api_key
 
 # Cached function to create a vectordb for the provided PDF files
