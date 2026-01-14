@@ -9,6 +9,7 @@ from langchain_community.chat_models import ChatOpenAI
 import openai
 import os
 
+
 # Set the title for the Streamlit app
 st.title("RAG enhanced Chatbot")
 
