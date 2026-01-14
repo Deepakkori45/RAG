@@ -4,7 +4,6 @@ from io import BytesIO
 from typing import Tuple, List
 import pickle
 
-
 from langchain.docstore.document import Document
 # from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain_openai import OpenAIEmbeddings
